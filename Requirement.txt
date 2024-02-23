@@ -1,0 +1,7 @@
+HR attrition analytics
+
+1. Relation between total employees and employees that left.
+2. In which department maximum attrition took place.
+3. Show satisfaction ratings that have left the company.
+4. Show attrition in the company based on education field, job roles and salary income.
+5. Show the impact of work overtime on the attrition.

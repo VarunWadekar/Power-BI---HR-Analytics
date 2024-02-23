@@ -1,0 +1,11 @@
+HR attrition analytics
+
+1. The total employee count is 1470 from which 237 have left the company which means the attrition rate is 16%.
+2. The average age of the employees is 37, average salary is $6500/- and the average salary hike is 15%.
+3. Total 116 employees that have left are up to 35 years old. That is 49% of total attrition.
+4. 102 employees are left within 2 years in the company which indicates that 43% employees left within 2 years.
+5.  Lab technician, sales executive, research scientist and sales representative are the top 4 job roles from which 199 employees that is 84% of employees have left with an average of 5 years time spent in the company.
+6. The remaining 5 job roles have the average of 9.2 years in the company. 
+7. The top 3 job roles in attrition also contributes to 59.65% of the total count of overtime employees
+8. The average monthly salary in the company is $6500 and 163 employees from the attrition list were getting paid less than $5000 which is 68.77% of total attrition.
+9.  Life science, medical and marketing are the top 3 educational fields contributing 79% of total attrition.
